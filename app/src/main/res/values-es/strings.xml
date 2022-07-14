@@ -1,0 +1,8 @@
+<!--Question 6-->
+<resources>
+    <string name="app_name">Mi solicitud</string>
+    <string name="list_of_students">Lista de estudiantes</string>
+    <string name="name">Nombre:</string>
+    <string name="age">Edad:</string>
+    <string name="roll">Rodar:</string>
+</resources>
